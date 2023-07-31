@@ -1,4 +1,4 @@
-![logo](https://github.com/Usool-Data-Science/Usool-Data-Science/blob/main/My%20github%20header%20image.png)
+![logo](https://github.com/Usool-Data-Science/Usool-Data-Science/blob/main/github-header.png)
 <h1 align="center">Hi 👋, I'm Adeshina Ibrahim</h1>
 <h3 align="center">A passionate AI/ML enthusiast who builds scalable intelligent systems for solving problems.</h3>
 
