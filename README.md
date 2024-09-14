@@ -24,7 +24,7 @@
 
 - 📝 **My Articles and Blogs:**  
    I regularly write about AI/ML trends, Flask tutorials, and full-stack development. You can find them here:  
-   [Medium Blog Posts](https://dev.to/usooldatascience)
+   [My Blog Posts](https://dev.to/usooldatascience)
 
 - 💬 **Ask me about:**  
    Python, TensorFlow, Flask, JavaScript, React.js, Docker, OpenCV, and Distributed Systems.
